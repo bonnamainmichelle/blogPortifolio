@@ -1,0 +1,62 @@
+
+
+.foto-perfil{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.cor-primaria{
+    background-color: #b19cd9;
+}
+
+.cor-secundaria{
+    background-color: #dcdcdc;
+}
+
+p {
+    font-family:Lato,'heltica neue', helvetica, arial, sans-serif;
+    color: black;
+}
+
+.icones{
+    padding-left: 5px;
+}
+
+.titulos-cinza{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #cdb7f6;
+}
+
+.titulos-violeta{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #b19cd9;
+}
+
+.textos-brancos{
+    color:white !important;
+}
+ 
+.jumbotron{
+    margin-bottom: 0px;
+}
+
+.texto-footer{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
